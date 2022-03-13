@@ -1,7 +1,8 @@
 ### Hi there 👋
+I'm front-end developer
 
 <!--
-I'm front-end developer
+I'm front-end developer :computer: :girl:
 
 Here are some ideas to get you started:
 
