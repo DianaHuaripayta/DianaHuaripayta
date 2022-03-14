@@ -14,7 +14,7 @@
   <img align="center" alt="Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/7a/81/f1/7a81f186ce94ebc5edc49e458d3e4844.jpg">
+  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/8a/db/01/8adb0196efcf83978c60445890ad5fe0.jpg">
 </div>
  
   ##
@@ -24,6 +24,6 @@
   <a href = "mailto:angelicadiana2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diana-hg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DianaHuaripayta/DianaHuaripayta/blob/output/github-contribution-grid-snake.svg)
  
 </div>
