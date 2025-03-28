@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">🚀 Full Stack Developer | Founder of Vokativa<br>I specialize in web & mobile development, building scalable digital solutions with Angular, React, and Flutter. Passionate about tech education.<br><br>📌 What I do:<br>	•	Develop high-performance web and mobile applications.<br>	•	Help businesses with digital transformation through innovative tech solutions.<br>	•	Share insights on web development, Flutter, and digital growth.<br><br>📚 Always learning, currently exploring Flutter & advanced backend development.</p>
+<p align="left">🚀 Full Stack Developer<br>I specialize in web & mobile development, building scalable digital solutions with Angular, React, and Flutter. Passionate about tech education.<br><br>📌 What I do:<br>	•	Develop high-performance web and mobile applications.<br>	•	Help businesses with digital transformation through innovative tech solutions.<br>	•	Share insights on web development, Flutter, and digital growth.<br><br>📚 Always learning, currently exploring Flutter & advanced backend development.</p>
 
 ###
 
